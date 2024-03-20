@@ -32,7 +32,7 @@ jobs:
           rl-verbose: true
           rl-portal-server: trial
           rl-portal-org: Trial
-          rl-portal-group: 'SKO 2024'
+          rl-portal-group: 'Charlie Test'
           rl-timeout: 5
           rl-submit-only: false
           artifact-to-scan: 'target/debug/rust-codespaces'
